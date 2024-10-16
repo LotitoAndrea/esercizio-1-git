@@ -14,4 +14,4 @@ Il comando git commit è una delle funzioni principali di Git. L'uso precedente 
 
 **Cosa è un git clone**
 
-git clone viene utilizzato principalmente per puntare a un repository esistente e creare un clone o una copia di tale repository in una nuova directory, in un'altra posizione. Il repository originale può trovarsi sul filesystem locale o su protocolli supportati accessibili dal computer remoto.
+Il comando git clone viene utilizzato principalmente per puntare a un repository esistente e creare un clone o una copia di tale repository in una nuova directory, in un'altra posizione. Il repository originale può trovarsi sul filesystem locale o su protocolli supportati accessibili dal computer remoto.
